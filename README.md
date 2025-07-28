@@ -16,6 +16,7 @@ The backend for **ServiSphere** — a full-stack service marketplace where users
 - **Express.js**
 - **MongoDB** (with **Mongoose**)
 - **Firebase Admin SDK** (for JWT verification)
+- **Jwt authentication**
 - **CORS**, **Dotenv**, **Multer** (if using file uploads)
 
 ---
