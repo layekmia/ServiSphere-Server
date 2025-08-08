@@ -1,7 +1,6 @@
 # 🛠️ ServiSphere Backend
 
-The backend for **ServiSphere** — a full-stack service marketplace where users can book services and providers can manage them. This server handles user authentication, service listing, booking management, and role-based access using Firebase JWT and MongoDB.
-
+The backend for **ServiSphere** — a full-stack service marketplace where users can book services and providers can manage them. This server handles user authentication, service listing, booking management, and role-based access using Firebase JWT and MongoDB
 ---
 
 ## 🌐 Live API
